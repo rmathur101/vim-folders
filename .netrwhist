@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/rohanm/.vim'
+let g:netrw_dirhist_2='/Users/rohanm/.vim/colors'
+let g:netrw_dirhist_3='/Users/rohanm/Desktop/Projects/dradis-test-stats-2-0'
+let g:netrw_dirhist_4='/Users/rohanm/Downloads'
+let g:netrw_dirhist_5='/Users/rohanm/Desktop/Projects/AnalyticsTeam/LookupService'
+let g:netrw_dirhist_6='/Users/rohanm/Desktop/Projects/AnalyticsTeam/LookupService/dao'
